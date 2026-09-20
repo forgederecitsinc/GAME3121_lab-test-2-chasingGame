@@ -508,6 +508,7 @@
 "Assets/scripts/C_camerafollow.cs"
 "Assets/scripts/E_EnemyChase.cs"
 "Assets/scripts/P_Player.cs"
+"Assets/scripts/P_PlayerCollision.cs"
 -langversion:9.0
 /deterministic
 /optimize+

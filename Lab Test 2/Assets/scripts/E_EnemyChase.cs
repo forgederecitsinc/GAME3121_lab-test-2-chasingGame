@@ -11,16 +11,16 @@ public class EnemyChase : MonoBehaviour
 
     void Start()
     {
-        // get the agent from the enemy
         agent = GetComponent<NavMeshAgent>();
+        
+        // force the ai to ram into the player
+        agent.stoppingDistance = 0f;
     }
 
     void Update()
     {
-        // check if the player still exists
         if (player != null)
         {
-            // set the agent's target destination to wherever the player is
             agent.SetDestination(player.position); 
         }
     }
