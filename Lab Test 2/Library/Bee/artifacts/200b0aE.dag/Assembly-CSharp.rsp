@@ -510,6 +510,7 @@
 "Assets/scripts/E_EnemyChase.cs"
 "Assets/scripts/P_PlayerCollision.cs"
 "Assets/scripts/P_PlayerMovement.cs"
+"Assets/scripts/PlayerCollect.cs"
 -langversion:9.0
 /deterministic
 /optimize+
