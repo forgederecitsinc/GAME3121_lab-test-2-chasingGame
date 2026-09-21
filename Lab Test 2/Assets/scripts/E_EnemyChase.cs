@@ -15,6 +15,7 @@ public class EnemyChase : MonoBehaviour
         
         // force the ai to ram into the player
         agent.stoppingDistance = 0f;
+        agent.autoBraking = false;
     }
 
     void Update()
