@@ -1003,9 +1003,9 @@ GameObject:
   - component: {fileID: 836808511}
   - component: {fileID: 836808510}
   - component: {fileID: 836808509}
-  - component: {fileID: 836808513}
   - component: {fileID: 836808514}
   - component: {fileID: 836808515}
+  - component: {fileID: 836808516}
   m_Layer: 0
   m_Name: player
   m_TagString: Player
@@ -1108,19 +1108,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &836808513
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 836808508}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 311a125a1e7444effa1192b7279fc578, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::PlayerMovement
-  speed: 10
 --- !u!54 &836808514
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -1161,6 +1148,19 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerCollision
   gameOverText: {fileID: 949199329}
+--- !u!114 &836808516
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 836808508}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 976117e5c93254968a12abde3c9b5e23, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::PlayerMovement
+  speed: 10
 --- !u!1 &852486209
 GameObject:
   m_ObjectHideFlags: 0
