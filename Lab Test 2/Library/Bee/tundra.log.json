@@ -1,6 +1,6 @@
-{"msg":"init","dagFile":"Library/Bee/Playerbfbcfbd8.dag","targets":["Player"]}
+{"msg":"init","dagFile":"Library/Bee/Player050be50e.dag","targets":["Player"]}
 {"msg":"enqueueNode","enqueuedNodeAnnotation":"Player","enqueuedNodeIndex":466}
-{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles web_b1/StreamingAssets/UnityServicesProjectConfiguration.json","enqueuedNodeIndex":3,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":466}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles web_b3/StreamingAssets/UnityServicesProjectConfiguration.json","enqueuedNodeIndex":3,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":466}
 {"msg":"enqueueNode","enqueuedNodeAnnotation":"UnityLinker /Users/roshanchristyr/Desktop/ROSHAN/GBC/GAME3121 Game Engine Dev Unity/REPO/GAME3121_lab test 2/Lab Test 2/Library/Bee/artifacts/unitylinker_ber2.traceevents","enqueuedNodeIndex":4,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":466}
 {"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles Data/Plugins/lib_burst_generated.cpp","enqueuedNodeIndex":6,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":466}
 {"msg":"enqueueNode","enqueuedNodeAnnotation":"GenerateNativePluginsForAssemblies Library/Bee/artifacts/WebGL/AsyncPluginsFromLinker","enqueuedNodeIndex":5,"enqueueingNodeAnnotation":"CopyFiles Data/Plugins/lib_burst_generated.cpp","enqueueingNodeIndex":6}
@@ -248,75 +248,75 @@
 {"msg":"enqueueNode","enqueuedNodeAnnotation":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/2z90pfzxkc0s.o","enqueuedNodeIndex":436,"enqueueingNodeAnnotation":"Lib_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/GameAssembly.a","enqueueingNodeIndex":437}
 {"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles /Users/roshanchristyr/Desktop/ROSHAN/GBC/GAME3121 Game Engine Dev Unity/REPO/GAME3121_lab test 2/Lab Test 2/Library/Bee/artifacts/WebGL/il2cppOutput/build/Data/Metadata/global-metadata.dat","enqueuedNodeIndex":439,"enqueueingNodeAnnotation":"CopyFiles /Users/roshanchristyr/Desktop/ROSHAN/GBC/GAME3121 Game Engine Dev Unity/REPO/GAME3121_lab test 2/Lab Test 2/Library/Bee/artifacts/WebGL/il2cppOutput/build/GameAssembly.a","enqueueingNodeIndex":438}
 {"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles /Users/roshanchristyr/Desktop/ROSHAN/GBC/GAME3121 Game Engine Dev Unity/REPO/GAME3121_lab test 2/Lab Test 2/Library/Bee/artifacts/WebGL/il2cppOutput/build/Data/Resources/mscorlib.dll-resources.dat","enqueuedNodeIndex":440,"enqueueingNodeAnnotation":"CopyFiles /Users/roshanchristyr/Desktop/ROSHAN/GBC/GAME3121 Game Engine Dev Unity/REPO/GAME3121_lab test 2/Lab Test 2/Library/Bee/artifacts/WebGL/il2cppOutput/build/GameAssembly.a","enqueueingNodeIndex":438}
-{"msg":"enqueueNode","enqueuedNodeAnnotation":"Brotli web_b1/Build/web_b1.framework.js.br","enqueuedNodeIndex":444,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":466}
-{"msg":"enqueueNode","enqueuedNodeAnnotation":"Merging JavaScript Code Library/Bee/artifacts/WebGL/build/debug_WebGL_wasm/build.framework.js","enqueuedNodeIndex":443,"enqueueingNodeAnnotation":"Brotli web_b1/Build/web_b1.framework.js.br","enqueueingNodeIndex":444}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"Brotli web_b3/Build/web_b3.framework.js.br","enqueuedNodeIndex":444,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":466}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"Merging JavaScript Code Library/Bee/artifacts/WebGL/build/debug_WebGL_wasm/build.framework.js","enqueuedNodeIndex":443,"enqueueingNodeAnnotation":"Brotli web_b3/Build/web_b3.framework.js.br","enqueueingNodeIndex":444}
 {"msg":"enqueueNode","enqueuedNodeAnnotation":"Link_WebGL_wasm Library/Bee/artifacts/WebGL/build/debug_WebGL_wasm/build.js (+wasm)","enqueuedNodeIndex":441,"enqueueingNodeAnnotation":"Merging JavaScript Code Library/Bee/artifacts/WebGL/build/debug_WebGL_wasm/build.framework.js","enqueueingNodeIndex":443}
 {"msg":"enqueueNode","enqueuedNodeAnnotation":"WriteFile Library/Bee/artifacts/csharpactions/build.framework.js_mumr.info","enqueuedNodeIndex":442,"enqueueingNodeAnnotation":"Merging JavaScript Code Library/Bee/artifacts/WebGL/build/debug_WebGL_wasm/build.framework.js","enqueueingNodeIndex":443}
-{"msg":"enqueueNode","enqueuedNodeAnnotation":"Brotli web_b1/Build/web_b1.wasm.br","enqueuedNodeIndex":445,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":466}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"Brotli web_b3/Build/web_b3.wasm.br","enqueuedNodeIndex":445,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":466}
 {"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles Temp/EditorBuildOutput/UnityLinkerToEditorData.json","enqueuedNodeIndex":446,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":466}
 {"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles Temp/EditorBuildOutput/MethodMap.tsv","enqueuedNodeIndex":447,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":466}
-{"msg":"enqueueNode","enqueuedNodeAnnotation":"Brotli web_b1/Build/web_b1.data.br","enqueuedNodeIndex":450,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":466}
-{"msg":"enqueueNode","enqueuedNodeAnnotation":"Assemble WebGL Data Library/Bee/artifacts/WebGL/webgl.data","enqueuedNodeIndex":449,"enqueueingNodeAnnotation":"Brotli web_b1/Build/web_b1.data.br","enqueueingNodeIndex":450}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"Brotli web_b3/Build/web_b3.data.br","enqueuedNodeIndex":450,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":466}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"Assemble WebGL Data Library/Bee/artifacts/WebGL/webgl.data","enqueuedNodeIndex":449,"enqueueingNodeAnnotation":"Brotli web_b3/Build/web_b3.data.br","enqueueingNodeIndex":450}
 {"msg":"enqueueNode","enqueuedNodeAnnotation":"AddBootConfigGUID Library/Bee/artifacts/WebGL/boot.config","enqueuedNodeIndex":2,"enqueueingNodeAnnotation":"Assemble WebGL Data Library/Bee/artifacts/WebGL/webgl.data","enqueueingNodeIndex":449}
 {"msg":"enqueueNode","enqueuedNodeAnnotation":"WriteFile Library/Bee/artifacts/csharpactions/boot.config_7kyv.info","enqueuedNodeIndex":1,"enqueueingNodeAnnotation":"AddBootConfigGUID Library/Bee/artifacts/WebGL/boot.config","enqueueingNodeIndex":2}
 {"msg":"enqueueNode","enqueuedNodeAnnotation":"WriteFile Library/Bee/artifacts/csharpactions/webgl.data_qnm2.info","enqueuedNodeIndex":448,"enqueueingNodeAnnotation":"Assemble WebGL Data Library/Bee/artifacts/WebGL/webgl.data","enqueueingNodeIndex":449}
-{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles web_b1/Build/web_b1.loader.js","enqueuedNodeIndex":452,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":466}
-{"msg":"enqueueNode","enqueuedNodeAnnotation":"PreprocessJS Library/Bee/artifacts/WebGLweb_b1.loader.js","enqueuedNodeIndex":451,"enqueueingNodeAnnotation":"CopyFiles web_b1/Build/web_b1.loader.js","enqueueingNodeIndex":452}
-{"msg":"enqueueNode","enqueuedNodeAnnotation":"PreprocessJS web_b1/index.html","enqueuedNodeIndex":453,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":466}
-{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles web_b1/TemplateData/favicon.ico","enqueuedNodeIndex":454,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":466}
-{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles web_b1/TemplateData/fullscreen-button.png","enqueuedNodeIndex":455,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":466}
-{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles web_b1/TemplateData/MemoryProfiler.png","enqueuedNodeIndex":456,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":466}
-{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles web_b1/TemplateData/progress-bar-empty-dark.png","enqueuedNodeIndex":457,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":466}
-{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles web_b1/TemplateData/progress-bar-empty-light.png","enqueuedNodeIndex":458,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":466}
-{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles web_b1/TemplateData/progress-bar-full-dark.png","enqueuedNodeIndex":459,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":466}
-{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles web_b1/TemplateData/progress-bar-full-light.png","enqueuedNodeIndex":460,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":466}
-{"msg":"enqueueNode","enqueuedNodeAnnotation":"PreprocessJS web_b1/TemplateData/style.css","enqueuedNodeIndex":461,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":466}
-{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles web_b1/TemplateData/unity-logo-dark.png","enqueuedNodeIndex":462,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":466}
-{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles web_b1/TemplateData/unity-logo-light.png","enqueuedNodeIndex":463,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":466}
-{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles web_b1/TemplateData/unity-logo-title-footer.png","enqueuedNodeIndex":464,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":466}
-{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles web_b1/TemplateData/webmemd-icon.png","enqueuedNodeIndex":465,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":466}
-{"msg":"newNode","annotation":"Brotli web_b1/Build/web_b1.framework.js.br","index":444}
-{"msg":"runNodeAction","annotation":"Brotli web_b1/Build/web_b1.framework.js.br","displayName":"Brotli web_b1.framework.js","index":444}
-{"msg":"noderesult","processed_node_count":260,"number_of_nodes_ever_queued":276,"annotation":"Brotli web_b1/Build/web_b1.framework.js.br","index":444,"exitcode":0,"outputfile":"web_b1/Build/web_b1.framework.js.br"}
-{"msg":"newNode","annotation":"CopyFiles web_b1/Build/web_b1.loader.js","index":452}
-{"msg":"runNodeAction","annotation":"CopyFiles web_b1/Build/web_b1.loader.js","displayName":"Copying web_b1.loader.js","index":452}
-{"msg":"newNode","annotation":"CopyFiles web_b1/TemplateData/unity-logo-light.png","index":463}
-{"msg":"runNodeAction","annotation":"CopyFiles web_b1/TemplateData/unity-logo-light.png","displayName":"Copying unity-logo-light.png","index":463}
-{"msg":"newNode","annotation":"CopyFiles web_b1/TemplateData/unity-logo-title-footer.png","index":464}
-{"msg":"runNodeAction","annotation":"CopyFiles web_b1/TemplateData/unity-logo-title-footer.png","displayName":"Copying unity-logo-title-footer.png","index":464}
-{"msg":"newNode","annotation":"CopyFiles web_b1/TemplateData/progress-bar-empty-dark.png","index":457}
-{"msg":"newNode","annotation":"CopyFiles web_b1/TemplateData/progress-bar-full-light.png","index":460}
-{"msg":"newNode","annotation":"CopyFiles web_b1/TemplateData/unity-logo-dark.png","index":462}
-{"msg":"newNode","annotation":"CopyFiles web_b1/TemplateData/MemoryProfiler.png","index":456}
-{"msg":"newNode","annotation":"CopyFiles web_b1/TemplateData/progress-bar-full-dark.png","index":459}
-{"msg":"newNode","annotation":"PreprocessJS web_b1/TemplateData/style.css","index":461}
-{"msg":"runNodeAction","annotation":"CopyFiles web_b1/TemplateData/progress-bar-empty-dark.png","displayName":"Copying progress-bar-empty-dark.png","index":457}
-{"msg":"runNodeAction","annotation":"CopyFiles web_b1/TemplateData/MemoryProfiler.png","displayName":"Copying MemoryProfiler.png","index":456}
-{"msg":"runNodeAction","annotation":"CopyFiles web_b1/TemplateData/progress-bar-full-dark.png","displayName":"Copying progress-bar-full-dark.png","index":459}
-{"msg":"runNodeAction","annotation":"CopyFiles web_b1/TemplateData/progress-bar-full-light.png","displayName":"Copying progress-bar-full-light.png","index":460}
-{"msg":"runNodeAction","annotation":"CopyFiles web_b1/TemplateData/unity-logo-dark.png","displayName":"Copying unity-logo-dark.png","index":462}
-{"msg":"runNodeAction","annotation":"PreprocessJS web_b1/TemplateData/style.css","displayName":"Preprocessing JavaScript style.css","index":461}
-{"msg":"newNode","annotation":"CopyFiles web_b1/TemplateData/progress-bar-empty-light.png","index":458}
-{"msg":"runNodeAction","annotation":"CopyFiles web_b1/TemplateData/progress-bar-empty-light.png","displayName":"Copying progress-bar-empty-light.png","index":458}
-{"msg":"noderesult","processed_node_count":261,"number_of_nodes_ever_queued":276,"annotation":"CopyFiles web_b1/Build/web_b1.loader.js","index":452,"exitcode":0,"outputfile":"web_b1/Build/web_b1.loader.js"}
-{"msg":"newNode","annotation":"CopyFiles web_b1/TemplateData/favicon.ico","index":454}
-{"msg":"runNodeAction","annotation":"CopyFiles web_b1/TemplateData/favicon.ico","displayName":"Copying favicon.ico","index":454}
-{"msg":"noderesult","processed_node_count":262,"number_of_nodes_ever_queued":276,"annotation":"CopyFiles web_b1/TemplateData/unity-logo-title-footer.png","index":464,"exitcode":0,"outputfile":"web_b1/TemplateData/unity-logo-title-footer.png"}
-{"msg":"newNode","annotation":"CopyFiles web_b1/TemplateData/webmemd-icon.png","index":465}
-{"msg":"runNodeAction","annotation":"CopyFiles web_b1/TemplateData/webmemd-icon.png","displayName":"Copying webmemd-icon.png","index":465}
-{"msg":"noderesult","processed_node_count":263,"number_of_nodes_ever_queued":276,"annotation":"CopyFiles web_b1/TemplateData/unity-logo-dark.png","index":462,"exitcode":0,"outputfile":"web_b1/TemplateData/unity-logo-dark.png"}
-{"msg":"newNode","annotation":"CopyFiles web_b1/TemplateData/fullscreen-button.png","index":455}
-{"msg":"runNodeAction","annotation":"CopyFiles web_b1/TemplateData/fullscreen-button.png","displayName":"Copying fullscreen-button.png","index":455}
-{"msg":"noderesult","processed_node_count":264,"number_of_nodes_ever_queued":276,"annotation":"CopyFiles web_b1/TemplateData/unity-logo-light.png","index":463,"exitcode":0,"outputfile":"web_b1/TemplateData/unity-logo-light.png"}
-{"msg":"newNode","annotation":"PreprocessJS web_b1/index.html","index":453}
-{"msg":"runNodeAction","annotation":"PreprocessJS web_b1/index.html","displayName":"Preprocessing JavaScript index.html","index":453}
-{"msg":"noderesult","processed_node_count":264,"number_of_nodes_ever_queued":276,"annotation":"CopyFiles web_b1/TemplateData/MemoryProfiler.png","index":456,"exitcode":0,"outputfile":"web_b1/TemplateData/MemoryProfiler.png"}
-{"msg":"noderesult","processed_node_count":266,"number_of_nodes_ever_queued":276,"annotation":"CopyFiles web_b1/TemplateData/progress-bar-full-light.png","index":460,"exitcode":0,"outputfile":"web_b1/TemplateData/progress-bar-full-light.png"}
-{"msg":"noderesult","processed_node_count":266,"number_of_nodes_ever_queued":276,"annotation":"CopyFiles web_b1/TemplateData/progress-bar-full-dark.png","index":459,"exitcode":0,"outputfile":"web_b1/TemplateData/progress-bar-full-dark.png"}
-{"msg":"noderesult","processed_node_count":266,"number_of_nodes_ever_queued":276,"annotation":"CopyFiles web_b1/TemplateData/progress-bar-empty-dark.png","index":457,"exitcode":0,"outputfile":"web_b1/TemplateData/progress-bar-empty-dark.png"}
-{"msg":"noderesult","processed_node_count":266,"number_of_nodes_ever_queued":276,"annotation":"CopyFiles web_b1/TemplateData/progress-bar-empty-light.png","index":458,"exitcode":0,"outputfile":"web_b1/TemplateData/progress-bar-empty-light.png"}
-{"msg":"noderesult","processed_node_count":266,"number_of_nodes_ever_queued":276,"annotation":"CopyFiles web_b1/TemplateData/favicon.ico","index":454,"exitcode":0,"outputfile":"web_b1/TemplateData/favicon.ico"}
-{"msg":"noderesult","processed_node_count":271,"number_of_nodes_ever_queued":276,"annotation":"CopyFiles web_b1/TemplateData/fullscreen-button.png","index":455,"exitcode":0,"outputfile":"web_b1/TemplateData/fullscreen-button.png"}
-{"msg":"noderesult","processed_node_count":272,"number_of_nodes_ever_queued":276,"annotation":"CopyFiles web_b1/TemplateData/webmemd-icon.png","index":465,"exitcode":0,"outputfile":"web_b1/TemplateData/webmemd-icon.png"}
-{"msg":"noderesult","processed_node_count":273,"number_of_nodes_ever_queued":276,"annotation":"PreprocessJS web_b1/TemplateData/style.css","index":461,"exitcode":0,"outputfile":"web_b1/TemplateData/style.css"}
-{"msg":"noderesult","processed_node_count":273,"number_of_nodes_ever_queued":276,"annotation":"PreprocessJS web_b1/index.html","index":453,"exitcode":0,"outputfile":"web_b1/index.html"}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles web_b3/Build/web_b3.loader.js","enqueuedNodeIndex":452,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":466}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"PreprocessJS Library/Bee/artifacts/WebGLweb_b3.loader.js","enqueuedNodeIndex":451,"enqueueingNodeAnnotation":"CopyFiles web_b3/Build/web_b3.loader.js","enqueueingNodeIndex":452}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"PreprocessJS web_b3/index.html","enqueuedNodeIndex":453,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":466}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles web_b3/TemplateData/favicon.ico","enqueuedNodeIndex":454,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":466}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles web_b3/TemplateData/fullscreen-button.png","enqueuedNodeIndex":455,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":466}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles web_b3/TemplateData/MemoryProfiler.png","enqueuedNodeIndex":456,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":466}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles web_b3/TemplateData/progress-bar-empty-dark.png","enqueuedNodeIndex":457,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":466}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles web_b3/TemplateData/progress-bar-empty-light.png","enqueuedNodeIndex":458,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":466}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles web_b3/TemplateData/progress-bar-full-dark.png","enqueuedNodeIndex":459,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":466}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles web_b3/TemplateData/progress-bar-full-light.png","enqueuedNodeIndex":460,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":466}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"PreprocessJS web_b3/TemplateData/style.css","enqueuedNodeIndex":461,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":466}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles web_b3/TemplateData/unity-logo-dark.png","enqueuedNodeIndex":462,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":466}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles web_b3/TemplateData/unity-logo-light.png","enqueuedNodeIndex":463,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":466}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles web_b3/TemplateData/unity-logo-title-footer.png","enqueuedNodeIndex":464,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":466}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles web_b3/TemplateData/webmemd-icon.png","enqueuedNodeIndex":465,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":466}
+{"msg":"newNode","annotation":"Brotli web_b3/Build/web_b3.framework.js.br","index":444}
+{"msg":"runNodeAction","annotation":"Brotli web_b3/Build/web_b3.framework.js.br","displayName":"Brotli web_b3.framework.js","index":444}
+{"msg":"noderesult","processed_node_count":260,"number_of_nodes_ever_queued":276,"annotation":"Brotli web_b3/Build/web_b3.framework.js.br","index":444,"exitcode":0,"outputfile":"web_b3/Build/web_b3.framework.js.br"}
+{"msg":"newNode","annotation":"CopyFiles web_b3/TemplateData/unity-logo-title-footer.png","index":464}
+{"msg":"runNodeAction","annotation":"CopyFiles web_b3/TemplateData/unity-logo-title-footer.png","displayName":"Copying unity-logo-title-footer.png","index":464}
+{"msg":"newNode","annotation":"CopyFiles web_b3/TemplateData/unity-logo-light.png","index":463}
+{"msg":"runNodeAction","annotation":"CopyFiles web_b3/TemplateData/unity-logo-light.png","displayName":"Copying unity-logo-light.png","index":463}
+{"msg":"newNode","annotation":"CopyFiles web_b3/TemplateData/unity-logo-dark.png","index":462}
+{"msg":"runNodeAction","annotation":"CopyFiles web_b3/TemplateData/unity-logo-dark.png","displayName":"Copying unity-logo-dark.png","index":462}
+{"msg":"newNode","annotation":"CopyFiles web_b3/TemplateData/MemoryProfiler.png","index":456}
+{"msg":"runNodeAction","annotation":"CopyFiles web_b3/TemplateData/MemoryProfiler.png","displayName":"Copying MemoryProfiler.png","index":456}
+{"msg":"newNode","annotation":"CopyFiles web_b3/TemplateData/progress-bar-full-light.png","index":460}
+{"msg":"runNodeAction","annotation":"CopyFiles web_b3/TemplateData/progress-bar-full-light.png","displayName":"Copying progress-bar-full-light.png","index":460}
+{"msg":"newNode","annotation":"PreprocessJS web_b3/TemplateData/style.css","index":461}
+{"msg":"newNode","annotation":"CopyFiles web_b3/TemplateData/progress-bar-empty-dark.png","index":457}
+{"msg":"runNodeAction","annotation":"PreprocessJS web_b3/TemplateData/style.css","displayName":"Preprocessing JavaScript style.css","index":461}
+{"msg":"runNodeAction","annotation":"CopyFiles web_b3/TemplateData/progress-bar-empty-dark.png","displayName":"Copying progress-bar-empty-dark.png","index":457}
+{"msg":"newNode","annotation":"CopyFiles web_b3/TemplateData/progress-bar-empty-light.png","index":458}
+{"msg":"runNodeAction","annotation":"CopyFiles web_b3/TemplateData/progress-bar-empty-light.png","displayName":"Copying progress-bar-empty-light.png","index":458}
+{"msg":"newNode","annotation":"CopyFiles web_b3/TemplateData/progress-bar-full-dark.png","index":459}
+{"msg":"newNode","annotation":"CopyFiles web_b3/TemplateData/favicon.ico","index":454}
+{"msg":"runNodeAction","annotation":"CopyFiles web_b3/TemplateData/progress-bar-full-dark.png","displayName":"Copying progress-bar-full-dark.png","index":459}
+{"msg":"runNodeAction","annotation":"CopyFiles web_b3/TemplateData/favicon.ico","displayName":"Copying favicon.ico","index":454}
+{"msg":"noderesult","processed_node_count":261,"number_of_nodes_ever_queued":276,"annotation":"CopyFiles web_b3/TemplateData/unity-logo-light.png","index":463,"exitcode":0,"outputfile":"web_b3/TemplateData/unity-logo-light.png"}
+{"msg":"newNode","annotation":"CopyFiles web_b3/TemplateData/webmemd-icon.png","index":465}
+{"msg":"runNodeAction","annotation":"CopyFiles web_b3/TemplateData/webmemd-icon.png","displayName":"Copying webmemd-icon.png","index":465}
+{"msg":"noderesult","processed_node_count":262,"number_of_nodes_ever_queued":276,"annotation":"CopyFiles web_b3/TemplateData/MemoryProfiler.png","index":456,"exitcode":0,"outputfile":"web_b3/TemplateData/MemoryProfiler.png"}
+{"msg":"noderesult","processed_node_count":262,"number_of_nodes_ever_queued":276,"annotation":"CopyFiles web_b3/TemplateData/progress-bar-empty-light.png","index":458,"exitcode":0,"outputfile":"web_b3/TemplateData/progress-bar-empty-light.png"}
+{"msg":"noderesult","processed_node_count":264,"number_of_nodes_ever_queued":276,"annotation":"CopyFiles web_b3/TemplateData/unity-logo-dark.png","index":462,"exitcode":0,"outputfile":"web_b3/TemplateData/unity-logo-dark.png"}
+{"msg":"noderesult","processed_node_count":264,"number_of_nodes_ever_queued":276,"annotation":"CopyFiles web_b3/TemplateData/unity-logo-title-footer.png","index":464,"exitcode":0,"outputfile":"web_b3/TemplateData/unity-logo-title-footer.png"}
+{"msg":"newNode","annotation":"CopyFiles web_b3/TemplateData/fullscreen-button.png","index":455}
+{"msg":"noderesult","processed_node_count":264,"number_of_nodes_ever_queued":276,"annotation":"CopyFiles web_b3/TemplateData/favicon.ico","index":454,"exitcode":0,"outputfile":"web_b3/TemplateData/favicon.ico"}
+{"msg":"noderesult","processed_node_count":264,"number_of_nodes_ever_queued":276,"annotation":"CopyFiles web_b3/TemplateData/progress-bar-empty-dark.png","index":457,"exitcode":0,"outputfile":"web_b3/TemplateData/progress-bar-empty-dark.png"}
+{"msg":"newNode","annotation":"PreprocessJS web_b3/index.html","index":453}
+{"msg":"runNodeAction","annotation":"CopyFiles web_b3/TemplateData/fullscreen-button.png","displayName":"Copying fullscreen-button.png","index":455}
+{"msg":"noderesult","processed_node_count":264,"number_of_nodes_ever_queued":276,"annotation":"CopyFiles web_b3/TemplateData/progress-bar-full-dark.png","index":459,"exitcode":0,"outputfile":"web_b3/TemplateData/progress-bar-full-dark.png"}
+{"msg":"runNodeAction","annotation":"PreprocessJS web_b3/index.html","displayName":"Preprocessing JavaScript index.html","index":453}
+{"msg":"noderesult","processed_node_count":266,"number_of_nodes_ever_queued":276,"annotation":"CopyFiles web_b3/TemplateData/progress-bar-full-light.png","index":460,"exitcode":0,"outputfile":"web_b3/TemplateData/progress-bar-full-light.png"}
+{"msg":"newNode","annotation":"CopyFiles web_b3/Build/web_b3.loader.js","index":452}
+{"msg":"runNodeAction","annotation":"CopyFiles web_b3/Build/web_b3.loader.js","displayName":"Copying web_b3.loader.js","index":452}
+{"msg":"noderesult","processed_node_count":269,"number_of_nodes_ever_queued":276,"annotation":"CopyFiles web_b3/TemplateData/webmemd-icon.png","index":465,"exitcode":0,"outputfile":"web_b3/TemplateData/webmemd-icon.png"}
+{"msg":"noderesult","processed_node_count":271,"number_of_nodes_ever_queued":276,"annotation":"CopyFiles web_b3/Build/web_b3.loader.js","index":452,"exitcode":0,"outputfile":"web_b3/Build/web_b3.loader.js"}
+{"msg":"noderesult","processed_node_count":272,"number_of_nodes_ever_queued":276,"annotation":"CopyFiles web_b3/TemplateData/fullscreen-button.png","index":455,"exitcode":0,"outputfile":"web_b3/TemplateData/fullscreen-button.png"}
+{"msg":"noderesult","processed_node_count":273,"number_of_nodes_ever_queued":276,"annotation":"PreprocessJS web_b3/TemplateData/style.css","index":461,"exitcode":0,"outputfile":"web_b3/TemplateData/style.css"}
+{"msg":"noderesult","processed_node_count":273,"number_of_nodes_ever_queued":276,"annotation":"PreprocessJS web_b3/index.html","index":453,"exitcode":0,"outputfile":"web_b3/index.html"}
